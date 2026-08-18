@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Solar Panel Answers">
+  <title>Solar Panel Answers</title>
+  <!--
+    Solar Panel Answers mark.
+
+    A panel with a sun behind it - the name made literal, which also happens
+    to be the strongest silhouette at favicon size (16px). One cell in the
+    panel grid is tinted in the theme's second accent colour, so both of
+    glass-nocturne's accents (gold, yellow-green) show up in the mark itself,
+    not just the sun.
+
+    Colours are literal: the near-black tile matches the site's actual dark
+    surface rather than an unrelated brand colour, since "glass-nocturne" is
+    a dark theme through and through.
+  -->
+  <defs>
+    <linearGradient id="spa-g" x1="0" y1="0" x2=".3" y2="1">
+      <stop offset="0" stop-color="#1B1F26"/><stop offset="1" stop-color="#0B0D11"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#spa-g)"/>
+  <rect x="3.2" y="3.2" width="57.6" height="57.6" rx="13.9"
+        fill="none" stroke="#fff" stroke-opacity=".14" stroke-width="2.2"/>
+
+  <circle cx="45" cy="19" r="9" fill="#E9A62B"/>
+  <rect x="10" y="30" width="30" height="22" rx="2.5" fill="#fff" fill-opacity=".95"/>
+  <path d="M10 38h30M10 44h30M20 30v22M30 30v22" stroke="#0B0D11" stroke-opacity=".45" stroke-width="1.6"/>
+  <rect x="20" y="38" width="10" height="6" fill="#D2D515" fill-opacity=".85"/>
+</svg>

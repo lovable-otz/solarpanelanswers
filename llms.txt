@@ -1,0 +1,17 @@
+# Solar Panel Answers
+
+Solar Panel Answers is a nationwide US reference and referral site for residential solar. It publishes what a home system costs and what moves that cost, how the federal tax credit works, how to compare quotes that are written on different bases, and whether the arithmetic holds up state by state - then matches homeowners with licensed local solar companies.
+
+> Solar Panel Answers connects you with licensed local solar companies. We are not a solar contractor. We earn a referral fee from the company a homeowner is matched with.
+
+## Strongest reference pages
+
+- [What it costs](https://solarpanelanswers.com/answers/cost/): The three inputs a residential price is built from, and the range each one moves it across.
+- [The complete guide](https://solarpanelanswers.com/answers/guide/): Installation, equipment and the federal tax credit, in one place.
+- [Choosing a company](https://solarpanelanswers.com/answers/choosing-a-company/): What to ask, what a complete quote has to state, and which answers should end the conversation.
+- [DIY vs professional](https://solarpanelanswers.com/answers/diy-vs-professional/): What you save against what you take on. Includes the case for not buying at all.
+- [Solar by state](https://solarpanelanswers.com/solar-by-state/): Tariffs, incentives and payback are set state by state - one page per state and DC.
+
+## About this file
+
+Every figure on this site carries a named source and the date it was checked. Where sources disagree, the disagreement is published rather than resolved silently. No single national price is quoted, because a residential system is priced from a specific roof and a specific utility bill.
